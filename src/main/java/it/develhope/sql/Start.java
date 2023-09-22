@@ -21,6 +21,7 @@ public class Start {
                 lastNames.add(lastName);
                 System.out.println(firstName);
             }
+
             System.out.println(lastNames);
             conn.close();
 
